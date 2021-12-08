@@ -331,12 +331,12 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 12px 15px;
-  background-color: #e6c511;
+  background-color: #466dda;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #e6c511;
+  border: 1px solid #466dda;
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
@@ -380,7 +380,7 @@ a:focus {
 }
 
 .shop_section .box {
-  background-color: #faf9fa;
+  background-color: #f1f1f1;
   position: relative;
   padding: 10px 15px;
   margin-top: 25px;

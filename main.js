@@ -76,11 +76,7 @@ function showPhones(data_arr){
 			<div class="box">\
 				<div class="img-box">\
 					<img class="mt-3" src="redial-images/' + img_str.toLowerCase() + '.jpg" alt="this is a picture of ' +  model_str + '">\
-					<p class="pl-4">' + description_str + '</p>\
-				</div>\
-				<div class="detail-box">\
-					<h6>' + model_str + '</h6>\
-					<h6><span>$' + price_str + '</span></h6>\
+					<p class="pl-4"><span class="h2 mt-4">' + model_str  + '</span><br><br><b>Brand: </b>' + brand_str  + '<br><b>Price: </b>$' + price_str + '<br><b>Description: </b>' + description_str + '</p>\
 				</div>\
 				<div class="new">\
 					<span class="mb-1"><i class="bi bi-cart-plus fa-lg"></i></span>\
